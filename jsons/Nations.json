@@ -1,38 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Werewolves",
+		"leaderName": "Banehallow",
+		"adjective": ["Werewolf"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Angry werewolves",
+		"startIntroPart2": "Kill'em all!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "My wolves will feast on the ruins of your civilization!",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"defeated": "Nooooo!!!",
+		"introduction": "Banehallow, you cool!",
+		"neutralHello": "Hello, stranger.",
+		"neutralLetsHearIt": ["Mm?","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Rrrrr!!",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Okay, stranger.  Maybe I'll eat you a little later",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+
+		"FavoredReligion": "Islam",
+		
+		"uniqueName": "Lust for blood",
+		"uniques": "Pizdes",
+		"cities": ["Ambrey, Kaldr, Artans, Zrrg, Ulrezash, Alarak, Vorazun, Karax, Zeratul, Phoenix, Raynor, Kerrigan,
+			   Marafok, Hadaruk, Warjead, ZZ Top, Hedrixx, Rama, Ul'Mar, Kal'dir, Bardon, Kuma, Oraluk, Hamakur, Hadanon, baragon, Moperix, Uberun, Kamodan,
+		           Farak, Ganan, Aldir, Malron, Sidor, Dotar"]}
 ]
